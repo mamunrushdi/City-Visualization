@@ -14,5 +14,4 @@ This program display cities around the world based on city's population size and
 1. Showing cities distinguished by location: ![](/img/1. distingguisedquake.png) 
 1. Upon moving corsour on the city marker, displays it's info ![](/img/2. showingcityinfo.png)
 1. Upon cliking on a city marker, it disappears all other cities and displays its information ![](/img/3. uponclicking.png)
-![GitHub Logo](/img/1. distingguisedquake.png)
-f
+![GitHub Logo](img/1. distingguisedquake.png)
